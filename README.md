@@ -1,3 +1,3 @@
 # pensieve
 
-Used to store knowledge I should know.
+Used to review stored memories.
